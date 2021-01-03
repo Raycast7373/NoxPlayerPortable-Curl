@@ -3,7 +3,7 @@
 type "%CD%\art\art.txt"
 
 echo Downloading Files Using Curl...
-"%cd%\Tools\Curl\curl.exe"  -o ../../NoxPlayerSetup.exe -J -L bignox.com/en/download/fullPackage?beta
+"%cd%\Tools\Curl\curl.exe"  -o ./NoxPlayerSetup.exe -J -L bignox.com/en/download/fullPackage?beta
 echo Download Complete.
 
 
