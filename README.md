@@ -18,7 +18,7 @@ Note:
 The chance that i would update this is not very big.
 
 
-If you have questions, contact me at: q.brala@gmail.com
+If you have questions, contact me at: bluemagicalwolf@gmail.com
 
 
 
